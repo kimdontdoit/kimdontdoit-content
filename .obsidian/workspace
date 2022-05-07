@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian's UI = pretty nice.md",
+            "file": "posts/fr/react-barre-de-progres-lecture.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian's UI = pretty nice.md",
+                "file": "posts/fr/react-barre-de-progres-lecture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +89,11 @@
   },
   "active": "cf34416f96efa14a",
   "lastOpenFiles": [
+    "posts/fr/react-barre-de-progres-lecture.md",
+    "posts/fr/lister-tous-mes-packages-npm-globaux.md",
+    "posts/fr/comment-utiliser-les-modules-css-scss-et-typescript.md",
+    "posts/fr/comment-utiliser-componentwillunmount-dans-un-functional-component.md",
+    "posts/fr/changer-nom-utilisateur-wordpress.md",
     "Obsidian's UI = pretty nice.md"
   ]
 }
