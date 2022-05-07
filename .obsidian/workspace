@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "7a1a475d8042bf1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf34416f96efa14a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian's UI = pretty nice.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14dd73ec8e93509b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a91e8c0545f2aa77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d3ea4ac0fba1fe7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd488f5f250579c2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dd94febf31b9826a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac1ffc42ce7fd307",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0aa5b2a08f0fb51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian's UI = pretty nice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cf34416f96efa14a",
+  "lastOpenFiles": [
+    "Obsidian's UI = pretty nice.md"
+  ]
+}
