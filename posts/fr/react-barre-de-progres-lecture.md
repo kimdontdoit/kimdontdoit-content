@@ -6,11 +6,12 @@ authors:
 category: JavaScript
 type: Snippets
 needs_update: true
+status: published
 ---
 
 Oui oui, c'est bien la petite barre qui se remplit lorsque vous scroller sur un article de kimdontdoit à l'heure de l'écriture de ce post. Connu aussi sous des termes comme une "scroll progress bar indicator", c'est un petit atout UX pour un lecteur.
 
-Voici le code pour l'indicateur de progrès de lecture que vous pouvez réutiliser et adapter à vos besoins. Dans mon cas, c'est
+Voici le code pour l'indicateur de progrès de lecture que vous pouvez réutiliser et adapter à vos besoins.
 
 ```js
 import React, { useState, useEffect } from "react";

@@ -6,6 +6,7 @@ authors:
   - Vladislav Kim
 type: Articles
 category: WordPress
+status: published
 ---
 
 Je vous assure, traduire WordPress, j’en ai vu de toutes les couleurs. Peu importe l’extension que vous utilisez, que ce soit WPML, TranslatePress ou une autre des (nombreuses) solutions disponibles qui aborde la traduction WordPress de manière, et je vous confirme, TRÈS différente l’une de l’autre (ahem, MultilingualPress…), avec l’accumulation de code et d’extensions, il se peut qu’un mot ou une phrase décide de ne pas s’entendre avec vous.

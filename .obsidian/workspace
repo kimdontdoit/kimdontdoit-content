@@ -7,8 +7,12 @@
         "id": "b551d1900ac7d272",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "posts/fr/traduire-mot-string-filtre-hook-gettext.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "posts/fr/traduire-mot-string-filtre-hook-gettext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "posts/fr/traduire-mot-string-filtre-hook-gettext.md"
+              }
             }
           }
         ]
@@ -92,15 +99,15 @@
   },
   "active": "b551d1900ac7d272",
   "lastOpenFiles": [
-    "types/fr/snippets.md",
-    "types/fr/articles.md",
-    "types/en/snippets.md",
-    "types/en/articles.md",
-    "posts/fr/Untitled.md",
-    "posts/fr/rediriger-www-vers-sans-www-avec-apache-htaccess.md",
     "posts/fr/traduire-mot-string-filtre-hook-gettext.md",
+    "posts/fr/rediriger-www-vers-sans-www-avec-apache-htaccess.md",
     "posts/fr/react-barre-de-progres-lecture.md",
-    "posts/en/react-barre-de-progres-lecture.md",
-    "posts/en/mes-commandes-grep-quotidiennes.md"
+    "posts/fr/mes-commandes-grep-quotidiennes.md",
+    "posts/fr/lister-tous-mes-packages-npm-globaux.md",
+    "posts/fr/comment-utiliser-les-modules-css-scss-et-typescript.md",
+    "posts/fr/comment-utiliser-componentwillunmount-dans-un-functional-component.md",
+    "posts/fr/changer-nom-utilisateur-wordpress.md",
+    "posts/fr/changer-desactiver-vidage-corbeille-automatique.md",
+    "types/fr/snippets.md"
   ]
 }

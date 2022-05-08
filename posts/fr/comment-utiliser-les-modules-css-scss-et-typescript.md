@@ -6,6 +6,7 @@ authors:
   - Vladislav Kim
 type: Articles
 category: JavaScript
+status: published
 ---
 
 Cet article assume que vous avez déjà une base avec les modules CSS/SCSS et que votre projet utilise déjà TypeScript. Je propose la [solution trouvée](https://skovy.dev/generating-typescript-definitions-for-css-modules-using-sass/) qui enlève l’erreur (et j’espère qu’elle ne fait pas juste la cacher).

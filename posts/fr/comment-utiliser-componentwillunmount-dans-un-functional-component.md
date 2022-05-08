@@ -7,6 +7,7 @@ authors:
 category: JavaScript
 type: Snippets
 needs_update: true
+status: published
 ---
 
 ```js

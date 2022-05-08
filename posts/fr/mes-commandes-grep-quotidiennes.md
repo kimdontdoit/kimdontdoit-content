@@ -7,6 +7,7 @@ authors:
 category: Serveur
 type: Articles
 needs_update: true
+status: published
 ---
 Cet article va être une "historique de mes commandes" et, heureusement, pas de mes commandes Uber Eats, mais de mes commandes `grep` ... 🥁
 
