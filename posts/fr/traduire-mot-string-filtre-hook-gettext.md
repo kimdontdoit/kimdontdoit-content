@@ -32,7 +32,7 @@ function translate_strings($translated, $original, $domain) {
 }
 ```
 
-Il faudra adapter les `if / else` et la variable `$translated` pour votre cas particulier. N’hésitez pas à laisser vos questions/commentaires dans le bas de la page.
+Il faut adapter les `if / else` et la variable `$translated` pour votre cas particulier. N’hésitez pas à laisser vos questions/commentaires dans le bas de la page.
 
 Si vous ne connaissez pas le `$domain`, vous pouvez l’ignorer dans votre usage de ce filtre. Comme dans cet exemple, qui utilise l’instruction [`switch`](https://www.php.net/manual/fr/control-structures.switch.php) à la place.
 
@@ -55,4 +55,4 @@ function translate_strings( $translated, $original, $domain ) {
 }
 ```
 
-J’espère que ce hook/filtre vous sera d’une certaine utilité comme il me l’a été. Personnellement, je le garde en poche lorsque j’ai du debuggage relié à des traductions WordPress. Au fait, suis-je supposé dire Hook? Filter?? Filtre???
+J’espère que ce hook/filtre vous sera d’une certaine utilité comme il me l’a été. Personnellement, je le garde en poche lorsque j’ai du debuggage relié à des traductions WordPress. Au fait, en bon français développeur frontal, suis-je supposé dire Hook? Filter?? Filtre???

@@ -6,12 +6,11 @@ authors:
   - Vladislav Kim
 category: Serveur
 type: Articles
-needs_update: true
 status: published
 ---
-Cet article va être une "historique de mes commandes" et, heureusement, pas de mes commandes Uber Eats, mais de mes commandes `grep` ... 🥁
+Cet article est une "historique de mes commandes" et, heureusement, pas de mes commandes Uber Eats, mais de mes commandes `grep` ... 🥁
 
-Quel que soit votre spécialisation, je vous assure que la commande grep peut grandement vous servir, même si vous avez l'habitude de faire vos recherches directement dans votre IDE ou éditeur de code. Si vous connaissez Linux sur le bout de vos doigts, cet article n'est peut être pas pour vous!
+Quel que soit votre spécialisation, je vous assure que grep peut grandement vous servir, même si vous avez l'habitude de faire vos recherches ailleurs tel que directement dans votre IDE / éditeur de code. Si vous connaissez Linux sur le bout de vos doigts, cet article n'est peut être pas pour vous!
 
 Vous pouvez directement obtenir plus d'information sur la commande en cas d'oubli sur [man7.org](https://man7.org/linux/man-pages/man1/grep.1.html) ou en utilisant la commande `man grep`.
 
@@ -23,12 +22,11 @@ La base de la base : la recherche récursive à travers tous les fichiers d'un d
 
 ```
 grep -r "pattern" .
-
 ```
 
 ## Inclure / exclure un dossier dans grep
 
-Il est possible également de fournir plusieurs dossiers à la commande.
+Il est possible de fournir plusieurs dossiers à la commande.
 
 ```
 grep -r --exclude-dir=node_modules "pattern" .

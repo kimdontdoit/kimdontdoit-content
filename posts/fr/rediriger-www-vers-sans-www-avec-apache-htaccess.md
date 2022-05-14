@@ -59,4 +59,4 @@ RewriteRule ^(.\*)$ http://www.%{HTTP_HOST}/$1 [R=301,L]
 
 ```
 
-C’est terminé! La redirection devrait être immédiatement disponible. Tester le tout en naviguant les deux URL possible de votre site (ex.: https://www.kimdontdoit.com et https://kimdontdoit.com) et vérifier dans la barre de votre navigateur (Chrome: Cliquer deux fois la barre, car https://www va être caché par défaut).
+C’est terminé! La redirection devrait être immédiatement disponible. Tester le tout en naviguant les deux URL possible de votre site (ex.: https://www.kimdontdoit.com et https://kimdontdoit.com) et vérifier dans la barre de votre navigateur (Chrome: Cliquer deux fois dans la barre car https://www est caché par défaut).

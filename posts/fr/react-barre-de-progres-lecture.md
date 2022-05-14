@@ -9,9 +9,9 @@ needs_update: true
 status: published
 ---
 
-Oui oui, c'est bien la petite barre qui se remplit lorsque vous scroller sur un article de kimdontdoit à l'heure de l'écriture de ce post. Connu aussi sous des termes comme une "scroll progress bar indicator", c'est un petit atout UX pour un lecteur.
+Oui oui, c'est la petite barre qui se remplit lorsque vous scroller sur un article de kimdontdoit à l'heure de l'écriture de ce post. Connu aussi sous des termes comme une "scroll progress bar indicator", c'est un petit atout UX pour un lecteur.
 
-Voici le code pour l'indicateur de progrès de lecture que vous pouvez réutiliser et adapter à vos besoins.
+Voici un component React pour l'indicateur de progrès de lecture que vous pouvez réutiliser et adapter à vos besoins.
 
 ```js
 import React, { useState, useEffect } from "react";
@@ -62,3 +62,5 @@ const ScrollProgress = ({ target }) => {
 
 export { ScrollProgress };
 ```
+
+Une particularité de ce component est le ref `target` reçu en props pour que le progrès commence seulement lorsque l'élément fourni atteint le haut du navigateur (voir la variable `windowScrollTop`)
