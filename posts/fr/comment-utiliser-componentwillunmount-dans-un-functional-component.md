@@ -13,9 +13,7 @@ status: published
 ```js
 useEffect(() => {
   return () => {
-
-  // Anything in here is fired on component unmount.
-
+    // Anything in here is fired on component unmount.
   };
-}, \[]);
+}, []);
 ```
